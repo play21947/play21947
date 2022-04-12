@@ -11,7 +11,7 @@ I'm a student some place in Chiangmai Thailand
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=play21947)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[Instargram](https://www.instagram.com/p1ay2.14/)
+[Instargram](https://www.instagram.com/p1ay2.14/)<br>
 [Youtube](https://www.youtube.com/channel/UCHRx26spPqMLXawTocFJaxg)
 
 <!--
