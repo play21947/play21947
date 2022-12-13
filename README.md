@@ -14,7 +14,7 @@ I'm a student some place in Chiangmai Thailand
 My Instargram : [Instargram](https://www.instagram.com/p1ay2.14/)<br>
 My Youtube Channel : [Youtube](https://www.youtube.com/channel/UCHRx26spPqMLXawTocFJaxg)<br>
 
-```I haven't seen fair in this country```
+```Thanks for watching my github profile```
 
 <!--
 **play21947/play21947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
